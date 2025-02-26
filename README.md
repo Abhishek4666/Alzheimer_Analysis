@@ -13,5 +13,5 @@
   interactive Tableau dashboard, providing data-driven insights to support early diagnosis and risk assessment of
   Alzheimer's disease.
 
-  ## Dashboard
-   [View PDF](./filename.pdf)
+  
+   [View PDF](Dashboard.pdf)
