@@ -12,3 +12,6 @@
   utilized for workflow orchestration, automating data pipelines and model execution. The project concludes with an
   interactive Tableau dashboard, providing data-driven insights to support early diagnosis and risk assessment of
   Alzheimer's disease.
+
+  ## Dashboard
+   [View PDF](./filename.pdf)
